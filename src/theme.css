@@ -1,0 +1,8 @@
+:root {
+  /* define colors */
+  --orange: orange;
+  --black: ##262626;
+  --white: #fafafa;
+
+  --primary: var(--orange);
+}
